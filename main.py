@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.utils import shuffle
 
-df = pd.read_csv('project/heart_failure_clinical_records_dataset.csv')
+df = pd.read_csv('heart_failure_clinical_records_dataset.csv')
 
 
 
